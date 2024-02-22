@@ -12,3 +12,4 @@ E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\refint\c-sharp-basic.dll
 E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.pdb
 E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.genruntimeconfig.cache
 E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\ref\c-sharp-basic.dll
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.sourcelink.json
