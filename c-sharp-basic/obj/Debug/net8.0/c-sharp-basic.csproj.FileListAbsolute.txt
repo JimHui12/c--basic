@@ -1,0 +1,14 @@
+E:\C-Sharp\c-sharp-basic\bin\Debug\net8.0\c-sharp-basic.exe
+E:\C-Sharp\c-sharp-basic\bin\Debug\net8.0\c-sharp-basic.deps.json
+E:\C-Sharp\c-sharp-basic\bin\Debug\net8.0\c-sharp-basic.runtimeconfig.json
+E:\C-Sharp\c-sharp-basic\bin\Debug\net8.0\c-sharp-basic.dll
+E:\C-Sharp\c-sharp-basic\bin\Debug\net8.0\c-sharp-basic.pdb
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.AssemblyInfoInputs.cache
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.AssemblyInfo.cs
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.csproj.CoreCompileInputs.cache
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.dll
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\refint\c-sharp-basic.dll
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.pdb
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\c-sharp-basic.genruntimeconfig.cache
+E:\C-Sharp\c-sharp-basic\obj\Debug\net8.0\ref\c-sharp-basic.dll
