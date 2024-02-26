@@ -22,5 +22,6 @@ Integer
 */
 int a = 2100000000;
 int b = 2100000000;
-int c = a + b;
+// long c = (long)a + (long)b;
+long c = checked(a + b);
 Console.WriteLine(c);
