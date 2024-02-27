@@ -23,5 +23,43 @@ Integer
 int a = 2100000000;
 int b = 2100000000;
 // long c = (long)a + (long)b;
-long c = checked(a + b);
-Console.WriteLine(c);
+// long c = checked(a + b);
+// Console.WriteLine(c);
+
+double aa = 42.1;
+decimal fjk = 34.2M; // explicit type
+decimal decimalTwo = 39.2M;
+float cc = 38.2F;
+// long ddd = checked(a+b);
+double abc = aa + cc;
+Console.WriteLine(abc);
+Console.WriteLine($"The answer is {fjk}" + fjk);
+Console.WriteLine($"The answer is {decimalTwo}" + decimalTwo);
+
+/*
+If condition
+*/
+int an = 5;
+int bn = 6;
+int hj = an + bn;
+bool mytest = hj > 10;
+if (mytest)
+{
+    Console.WriteLine("The answer is greater than 10");
+}
+else
+{
+    Console.WriteLine("The answer is not greater than 10");
+}
+
+int vv = 4;
+int uu = 4;
+int ii = 3;
+// && operation
+if((vv + uu + ii > 10) && (a == b) ) {
+    Console.WriteLine("The answer is greater than 10");
+} else {
+    Console.WriteLine("The answer is not greater than 10");
+}
+
+
