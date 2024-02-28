@@ -108,3 +108,19 @@ for (int row = 0; row < 11; row++)
         Console.WriteLine($"The cell is ({row}), ({column})");
     }
 }
+
+/*
+List  Cup<T>
+*/
+// var name = "Scott";
+// var name = 3F;
+var names = new List<string> {"Scott", "Ana", "Felipe"};
+names.Add("David");
+names.Add("Damian");
+names.Add("Maria");
+foreach (var name in names)
+{
+    Console.WriteLine($"Hello {name.ToUpper()}!");
+}
+
+
