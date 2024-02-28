@@ -123,4 +123,20 @@ foreach (var name in names)
     Console.WriteLine($"Hello {name.ToUpper()}!");
 }
 
+Console.WriteLine(names[0]);
+Console.WriteLine(names[2]);
+Console.WriteLine(names[^1]);
+Console.WriteLine(names[^2]);
+
+/*
+Arrays
+Arrays are fixed in length, fixed memory
+*/
+var manyNames = new string[] {"Scott", "Anna", "Felipe"};
+manyNames = [..manyNames, "Damian"];
+foreach (var name in manyNames)
+{
+    Console.WriteLine($"Hello {name.ToUpper()}!1");
+}
+
 
