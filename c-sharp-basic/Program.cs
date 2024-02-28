@@ -2,6 +2,8 @@
 /*
 String
 */
+using System.Diagnostics.Metrics;
+
 Console.WriteLine("Hello, World!");
 string firstFriend = "Maria";
 string secondFriend = "Sage";
@@ -56,10 +58,53 @@ int vv = 4;
 int uu = 4;
 int ii = 3;
 // && operation
-if((vv + uu + ii > 10) && (a == b) ) {
+if ((vv + uu + ii > 10) && (a == b))
+{
     Console.WriteLine("The answer is greater than 10");
-} else {
+}
+else
+{
     Console.WriteLine("The answer is not greater than 10");
 }
 
+/*
+while, do while loops
+*/
+int counter = 0;
+while (counter < 5)
+{
+    counter++;
+    Console.WriteLine(counter);
+}
 
+counter = counter + 1;
+counter++;
+Console.WriteLine(counter);
+counter++;
+Console.WriteLine(counter);
+counter++;
+Console.WriteLine(counter);
+
+do
+{
+    Console.WriteLine(counter);
+    counter++;
+}
+while (counter < 5);
+
+
+/*
+ for loops
+*/
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(i);
+}
+
+for (int row = 0; row < 11; row++)
+{
+    for (char column = 'a'; column < 'k'; column++)
+    {
+        Console.WriteLine($"The cell is ({row}), ({column})");
+    }
+}
