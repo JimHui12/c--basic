@@ -3,6 +3,7 @@
 String
 */
 using System.Diagnostics.Metrics;
+using System.Globalization;
 
 Console.WriteLine("Hello, World!");
 string firstFriend = "Maria";
@@ -139,4 +140,25 @@ foreach (var name in manyNames)
     Console.WriteLine($"Hello {name.ToUpper()}!1");
 }
 
+/*
+Sorting and Searching List
+*/
+var nameList = new List<string> {"Abc", "Bac", "Cba"};
+var numberList = new List<int> {46, 48, 88, 99, 67, 78, 41};
 
+nameList.Sort();
+
+numberList.Sort();
+
+Console.WriteLine($"I found 99 at index {numberList.IndexOf(99)}");
+ 
+
+// foreach (var name in nameList)
+// {
+//     Console.WriteLine($"Hello {name.ToUpper()}!");
+// }
+
+// foreach(var number in numberList)
+// {
+//     Console.WriteLine($"{number}");
+// }
