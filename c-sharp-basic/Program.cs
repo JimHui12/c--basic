@@ -197,7 +197,7 @@ IEnumerable<int> scoreQuery =
     from score in scores
     where score > 80
     orderby score descending
-    select  score;
+    select score;
 
 var scoreQuery2 = scores.Where(s => s > 80).OrderByDescending(s => s);
 List<int> myScores = scoreQuery.ToList();
@@ -208,3 +208,21 @@ foreach (var score in myScores)
 }
 
 
+/*
+OOP
+*/
+
+Console.WriteLine("Hello OOP");
+var p1 = new Person("Scott", "Hanselman", new DateOnly(1970, 1, 1));
+var p2 = new Person("David", "Taylor", new DateOnly(1970, 1, 1));
+
+List<Person> people = [p1, p2];
+
+Console.WriteLine(people.Count);
+
+public class Person(string firstName, string lastName, DateOnly birthday)
+{
+    public string Frist {get;  } = firstName;
+    public string Last {get;  } = lastName;
+    public DateOnly Birthdya {get;} = birthday;
+}
