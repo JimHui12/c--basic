@@ -115,7 +115,7 @@ List  Cup<T>
 */
 // var name = "Scott";
 // var name = 3F;
-var names = new List<string> {"Scott", "Ana", "Felipe"};
+var names = new List<string> { "Scott", "Ana", "Felipe" };
 names.Add("David");
 names.Add("Damian");
 names.Add("Maria");
@@ -133,8 +133,8 @@ Console.WriteLine(names[^2]);
 Arrays
 Arrays are fixed in length, fixed memory
 */
-var manyNames = new string[] {"Scott", "Anna", "Felipe"};
-manyNames = [..manyNames, "Damian"];
+var manyNames = new string[] { "Scott", "Anna", "Felipe" };
+manyNames = [.. manyNames, "Damian"];
 foreach (var name in manyNames)
 {
     Console.WriteLine($"Hello {name.ToUpper()}!1");
@@ -143,15 +143,15 @@ foreach (var name in manyNames)
 /*
 Sorting and Searching List
 */
-var nameList = new List<string> {"Abc", "Bac", "Cba"};
-var numberList = new List<int> {46, 48, 88, 99, 67, 78, 41};
+var nameList = new List<string> { "Abc", "Bac", "Cba" };
+var numberList = new List<int> { 46, 48, 88, 99, 67, 78, 41 };
 
 nameList.Sort();
 
 numberList.Sort();
 
 Console.WriteLine($"I found 99 at index {numberList.IndexOf(99)}");
- 
+
 
 // foreach (var name in nameList)
 // {
@@ -162,3 +162,49 @@ Console.WriteLine($"I found 99 at index {numberList.IndexOf(99)}");
 // {
 //     Console.WriteLine($"{number}");
 // }
+
+/**
+Language Integrated Query (LINQ) and IEnumerable
+*/
+List<int> scores = [3, 20, 100, 99, 92, 81, 50, 66];
+scores.Sort();
+// for (int i = 0; i < scores.Count; i++) {
+//     if(scores[i] > 80)
+//     {
+//         Console.WriteLine($"Found a score over 80 {scores[i]}");
+//     }
+// }
+
+// return;
+
+// Define the query expression.
+// IEnumerable<string> scoreQuery =
+//     from score in scores
+//     where score > 80
+//     orderby score descending
+//     select $"The score is {score}";
+
+// // Execute the query.
+// foreach (string s in scoreQuery)
+// {
+//     Console.WriteLine(s);
+// }
+
+/**
+LINQ Method Syntax vs Query
+**/
+IEnumerable<int> scoreQuery =
+    from score in scores
+    where score > 80
+    orderby score descending
+    select  score;
+
+var scoreQuery2 = scores.Where(s => s > 80).OrderByDescending(s => s);
+List<int> myScores = scoreQuery.ToList();
+
+foreach (var score in myScores)
+{
+    Console.WriteLine(score);
+}
+
+
