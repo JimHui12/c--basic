@@ -216,13 +216,66 @@ Console.WriteLine("Hello OOP");
 var p1 = new Person("Scott", "Hanselman", new DateOnly(1970, 1, 1));
 var p2 = new Person("David", "Taylor", new DateOnly(1970, 1, 1));
 
+p1.Pets.Add(new Dog("max"));
+p1.Pets.Add(new Dog("barney"));
+p2.Pets.Add(new Cat("Linh"));
+p2.Pets.Add(new Cat("Lucy"));
+
 List<Person> people = [p1, p2];
 
 Console.WriteLine(people.Count);
+
+foreach(var person in people)
+{
+
+    Console.WriteLine($"{person} ");
+    foreach(var pet in person.Pets)
+    {
+        Console.WriteLine( $"    has a {pet}");
+    }
+}
 
 public class Person(string firstName, string lastName, DateOnly birthday)
 {
     public string Frist {get;  } = firstName;
     public string Last {get;  } = lastName;
     public DateOnly Birthdya {get;} = birthday;
+
+    public List<Pet> Pets {get;} = new();
+    public override string ToString()
+    {
+        return $"{Frist} {Last}";
+    }
 }
+
+public abstract class Pet(string firstName) 
+{
+    public string First {get;} = firstName;
+    public abstract string MakeNoise();
+        public override string ToString()
+    {
+        return $"{First} and I am a {GetType().Name} and I {MakeNoise()} ";
+    }
+}
+
+public class Cat(string firstName) : Pet(firstName)
+{
+    public override string MakeNoise() => "meow";
+    
+}
+
+public class Dog(string firstName) : Pet(firstName)
+{
+    public override string MakeNoise() => "bark";
+    
+}
+
+
+
+
+
+
+
+
+
+
