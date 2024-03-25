@@ -3,36 +3,80 @@
   "WorkspaceRootPath": "E:\\C-Sharp\\web-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\migrations\\20240325103630_addcategorytodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\migrations\\20240325103630_addcategorytodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\webapplicationrazor_temp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\webapplicationrazor_temp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -51,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\migrations\\20240311112708_addcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +106,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:42:08.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T11:40:54.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:50:13.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T10:49:40.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T11:35:58.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240325103630_AddCategoryToDb.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Migrations\\20240325103630_AddCategoryToDb.cs",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Migrations\\20240325103630_AddCategoryToDb.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Migrations\\20240325103630_AddCategoryToDb.cs",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Migrations\\20240325103630_AddCategoryToDb.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:36:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "web-app\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "web-app\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T11:59:23.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:31:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "web-app\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "web-app\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:02:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Program.cs",
+              "RelativeDocumentMoniker": "web-app\\Program.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Program.cs",
+              "RelativeToolTip": "web-app\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:05:04.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Program.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Program.cs",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:18:49.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\appsettings.json",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\appsettings.json",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T10:24:50.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApplicationRazor_Temp",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T10:22:03.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\appsettings.json",
+              "RelativeDocumentMoniker": "web-app\\appsettings.json",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\appsettings.json",
+              "RelativeToolTip": "web-app\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T10:59:13.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Models\\Category.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:23:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "web-app\\Models\\Category.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Models\\Category.cs",
+              "RelativeToolTip": "web-app\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:17:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "web-app\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "web-app\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:46:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "web-app\\Views\\Shared\\_Notification.cshtml",
@@ -87,59 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "web-app\\Views\\Category\\Index.cshtml",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "web-app\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T11:54:09.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "web-app\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "web-app\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T11:59:23.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "web-app\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "web-app\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:46:07.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "web-app\\Views\\Category\\Create.cshtml",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "web-app\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T11:19:45.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "web-app\\Views\\Category\\Edit.cshtml",
@@ -152,19 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "web-app\\Models\\Category.cs",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Models\\Category.cs",
-              "RelativeToolTip": "web-app\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:17:53.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "20240311120958_SeedCategory.cs",
               "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Migrations\\20240311120958_SeedCategory.cs",
               "RelativeDocumentMoniker": "web-app\\Migrations\\20240311120958_SeedCategory.cs",
@@ -172,11 +365,12 @@
               "RelativeToolTip": "web-app\\Migrations\\20240311120958_SeedCategory.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T12:09:59.099Z"
+              "WhenOpened": "2024-03-11T12:09:59.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "bootstrap.css",
               "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -184,11 +378,12 @@
               "RelativeToolTip": "web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "ViewState": "AQIAAAk1AAAAAAAAAAAiwBg1AAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-12T11:22:55.293Z"
+              "WhenOpened": "2024-03-12T11:22:55.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "20240311121044_SeedCategoryTable.cs",
               "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Migrations\\20240311121044_SeedCategoryTable.cs",
               "RelativeDocumentMoniker": "web-app\\Migrations\\20240311121044_SeedCategoryTable.cs",
@@ -196,11 +391,12 @@
               "RelativeToolTip": "web-app\\Migrations\\20240311121044_SeedCategoryTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T12:10:45.575Z"
+              "WhenOpened": "2024-03-11T12:10:45.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "20240311112708_AddCategoryTableToDb.cs",
               "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Migrations\\20240311112708_AddCategoryTableToDb.cs",
               "RelativeDocumentMoniker": "web-app\\Migrations\\20240311112708_AddCategoryTableToDb.cs",
@@ -208,11 +404,12 @@
               "RelativeToolTip": "web-app\\Migrations\\20240311112708_AddCategoryTableToDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:27:08.609Z"
+              "WhenOpened": "2024-03-11T11:27:08.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "web-app\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -220,43 +417,8 @@
               "RelativeToolTip": "web-app\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:33:43.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "web-app\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "web-app\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T07:02:52.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Program.cs",
-              "RelativeDocumentMoniker": "web-app\\Program.cs",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Program.cs",
-              "RelativeToolTip": "web-app\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:05:04.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\appsettings.json",
-              "RelativeDocumentMoniker": "web-app\\appsettings.json",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\appsettings.json",
-              "RelativeToolTip": "web-app\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-11T10:59:13.37Z"
+              "WhenOpened": "2024-03-11T11:33:43.654Z",
+              "EditorCaption": ""
             }
           ]
         }
