@@ -5,6 +5,7 @@ using WebApplicationRazor_Temp.Models;
 
 namespace WebApplicationRazor_Temp.Pages.Categories
 {
+    [BindProperties]
     public class CreateModel : PageModel
     {
         private readonly ApplicationDbContext _db;
@@ -15,5 +16,12 @@ namespace WebApplicationRazor_Temp.Pages.Categories
         }
         public void OnGet() 
         { }
+
+        public IActionResult OnPost(Category obj) 
+        { 
+            _db.Categories.Add(Category);
+            _db.SaveChanges();
+            return RedirectToPage("Index");
+        }
     }
 }
