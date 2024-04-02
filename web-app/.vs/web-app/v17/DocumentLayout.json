@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "E:\\C-Sharp\\web-app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|e:\\c-sharp\\web-app\\webapplicationrazor_temp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C55B759-84DF-4B88-A212-37796925D4EF}|WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj|solutionrelative:webapplicationrazor_temp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\c-sharp\\web-app\\web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T11:31:51.857Z",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "web-app\\Views\\Category\\Create.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "web-app\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T10:57:51.346Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "web-app\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "web-app\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T11:30:57.093Z",
+              "WhenOpened": "2024-04-02T11:29:12.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T11:31:34.061Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "web-app\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "web-app\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:28:39.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Program.cs",
-              "RelativeDocumentMoniker": "web-app\\Program.cs",
-              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Program.cs",
-              "RelativeToolTip": "web-app\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "web-app\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "web-app\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:05:04.534Z"
+              "WhenOpened": "2024-04-02T11:27:32.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "web-app\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "web-app\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T11:17:51.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "web-app\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "web-app\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T11:17:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "web-app\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "web-app\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABACAAAAAAAAAAAgwBsCAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T10:56:16.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "E:\\C-Sharp\\web-app\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T10:52:21.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApplicationRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:41:43.079Z",
+              "EditorCaption": ""
             }
           ]
         }
