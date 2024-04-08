@@ -1,0 +1,12 @@
+E:\asp.net\csharp\web-app\web-app.Models\bin\Debug\net8.0\web-app.Models.deps.json
+E:\asp.net\csharp\web-app\web-app.Models\bin\Debug\net8.0\web-app.Models.dll
+E:\asp.net\csharp\web-app\web-app.Models\bin\Debug\net8.0\web-app.Models.pdb
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\web-app.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\web-app.Models.AssemblyInfoInputs.cache
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\web-app.Models.AssemblyInfo.cs
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\web-app.Models.csproj.CoreCompileInputs.cache
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\web-app.Models.sourcelink.json
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\web-app.Models.dll
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\refint\web-app.Models.dll
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\web-app.Models.pdb
+E:\asp.net\csharp\web-app\web-app.Models\obj\Debug\net8.0\ref\web-app.Models.dll

@@ -1501,6 +1501,42 @@
             "rid": "win"
           }
         }
+      },
+      "web-app.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
+          "web-app.Models": "1.0.0",
+          "web-app.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/web-app.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/web-app.DataAccess.dll": {}
+        }
+      },
+      "web-app.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/web-app.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/web-app.Models.dll": {}
+        }
+      },
+      "web-app.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/web-app.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/web-app.Utility.dll": {}
+        }
       }
     }
   },
@@ -4072,13 +4108,30 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "web-app.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../web-app.DataAccess/web-app.DataAccess.csproj",
+      "msbuildProject": "../web-app.DataAccess/web-app.DataAccess.csproj"
+    },
+    "web-app.Models/1.0.0": {
+      "type": "project",
+      "path": "../web-app.Models/web-app.Models.csproj",
+      "msbuildProject": "../web-app.Models/web-app.Models.csproj"
+    },
+    "web-app.Utility/1.0.0": {
+      "type": "project",
+      "path": "../web-app.Utility/web-app.Utility.csproj",
+      "msbuildProject": "../web-app.Utility/web-app.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 8.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.2",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.2"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.2",
+      "web-app.DataAccess >= 1.0.0",
+      "web-app.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4088,11 +4141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C-Sharp\\web-app\\web-app\\web-app.csproj",
+      "projectUniqueName": "E:\\asp.net\\csharp\\web-app\\web-app\\web-app.csproj",
       "projectName": "web-app",
-      "projectPath": "E:\\C-Sharp\\web-app\\web-app\\web-app.csproj",
+      "projectPath": "E:\\asp.net\\csharp\\web-app\\web-app\\web-app.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\C-Sharp\\web-app\\web-app\\obj\\",
+      "outputPath": "E:\\asp.net\\csharp\\web-app\\web-app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4112,7 +4165,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\web-app.DataAccess.csproj": {
+              "projectPath": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\web-app.DataAccess.csproj"
+            },
+            "E:\\asp.net\\csharp\\web-app\\web-app.Models\\web-app.Models.csproj": {
+              "projectPath": "E:\\asp.net\\csharp\\web-app\\web-app.Models\\web-app.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

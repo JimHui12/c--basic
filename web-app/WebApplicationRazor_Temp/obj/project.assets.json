@@ -4088,11 +4088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
+      "projectUniqueName": "E:\\asp.net\\csharp\\web-app\\WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
       "projectName": "WebApplicationRazor_Temp",
-      "projectPath": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
+      "projectPath": "E:\\asp.net\\csharp\\web-app\\WebApplicationRazor_Temp\\WebApplicationRazor_Temp.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\C-Sharp\\web-app\\WebApplicationRazor_Temp\\obj\\",
+      "outputPath": "E:\\asp.net\\csharp\\web-app\\WebApplicationRazor_Temp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,6 @@
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.csproj.AssemblyReference.cache
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.AssemblyInfoInputs.cache
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.AssemblyInfo.cs
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.csproj.CoreCompileInputs.cache
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.sourcelink.json

@@ -1,0 +1,12 @@
+E:\asp.net\csharp\web-app\web-app.Utility\bin\Debug\net8.0\web-app.Utility.deps.json
+E:\asp.net\csharp\web-app\web-app.Utility\bin\Debug\net8.0\web-app.Utility.dll
+E:\asp.net\csharp\web-app\web-app.Utility\bin\Debug\net8.0\web-app.Utility.pdb
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\web-app.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\web-app.Utility.AssemblyInfoInputs.cache
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\web-app.Utility.AssemblyInfo.cs
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\web-app.Utility.csproj.CoreCompileInputs.cache
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\web-app.Utility.sourcelink.json
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\web-app.Utility.dll
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\refint\web-app.Utility.dll
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\web-app.Utility.pdb
+E:\asp.net\csharp\web-app\web-app.Utility\obj\Debug\net8.0\ref\web-app.Utility.dll

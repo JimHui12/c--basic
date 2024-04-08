@@ -135,3 +135,12 @@ E:\C-Sharp\web-app\web-app\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Secur
 E:\C-Sharp\web-app\web-app\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\C-Sharp\web-app\web-app\obj\Debug\net8.0\web-app.csproj.AssemblyReference.cache
 E:\C-Sharp\web-app\web-app\obj\Debug\net8.0\web-app.csproj.Up2Date
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.csproj.AssemblyReference.cache
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.AssemblyInfoInputs.cache
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.AssemblyInfo.cs
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.csproj.CoreCompileInputs.cache
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.MvcApplicationPartsAssemblyInfo.cache
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.RazorAssemblyInfo.cache
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.RazorAssemblyInfo.cs
+E:\asp.net\csharp\web-app\web-app\obj\Debug\net8.0\web-app.sourcelink.json
