@@ -4,3 +4,17 @@ E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess
 E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.AssemblyInfo.cs
 E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.csproj.CoreCompileInputs.cache
 E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.sourcelink.json
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.DataAccess.deps.json
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.DataAccess.runtimeconfig.json
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.DataAccess.dll
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.DataAccess.pdb
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.Models.dll
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.Utility.dll
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.Models.pdb
+E:\asp.net\csharp\web-app\web-app.DataAccess\bin\Debug\net8.0\web-app.Utility.pdb
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app..6446C014.Up2Date
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.dll
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\refint\web-app.DataAccess.dll
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.pdb
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\web-app.DataAccess.genruntimeconfig.cache
+E:\asp.net\csharp\web-app\web-app.DataAccess\obj\Debug\net8.0\ref\web-app.DataAccess.dll
