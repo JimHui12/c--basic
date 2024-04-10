@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\asp.net\\csharp\\web-app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE1CB4D6-6DCE-4030-9513-EDC6DB4B0CFE}|web-app.Models\\web-app.Models.csproj|e:\\asp.net\\csharp\\web-app\\web-app.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE1CB4D6-6DCE-4030-9513-EDC6DB4B0CFE}|web-app.Models\\web-app.Models.csproj|solutionrelative:web-app.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:21:44.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "web-app.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:20:51.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.Models\\Category.cs",
               "RelativeDocumentMoniker": "web-app.Models\\Category.cs",
               "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.Models\\Category.cs",
               "RelativeToolTip": "web-app.Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T12:35:13.25Z",
               "EditorCaption": ""
