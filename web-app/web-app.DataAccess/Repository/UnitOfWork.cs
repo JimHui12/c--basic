@@ -17,7 +17,7 @@ namespace web_app.DataAccess.Repository
             _db = db;
             Category = new CategoryRepository(_db);
         }
-        public ICategoryRepository CategoryRepository { get; private set; }
+       
 
         public void Save()
         {

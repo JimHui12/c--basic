@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationRazor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdddb78f82408873d08b5ef6be186173fd4855b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f984f4f9498c5d3ec5e0496db8b8f5773d6596bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationRazor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationRazor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

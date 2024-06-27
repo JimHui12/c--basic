@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\asp.net\\csharp\\web-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE1CB4D6-6DCE-4030-9513-EDC6DB4B0CFE}|web-app.Models\\web-app.Models.csproj|e:\\asp.net\\csharp\\web-app\\web-app.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1CB4D6-6DCE-4030-9513-EDC6DB4B0CFE}|web-app.Models\\web-app.Models.csproj|solutionrelative:web-app.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +43,20 @@
       "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|e:\\asp.net\\csharp\\web-app\\web-app.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B29F16A5-4C51-458F-8799-46B4E11AB03C}|web-app.DataAccess\\web-app.DataAccess.csproj|solutionrelative:web-app.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|e:\\asp.net\\csharp\\web-app\\web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EFCF9E8-1CF5-4EEE-A912-1A9E46885C03}|web-app\\web-app.csproj|solutionrelative:web-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +66,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "web-app.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.Models\\Product.cs",
+              "RelativeDocumentMoniker": "web-app.Models\\Product.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.Models\\Product.cs",
+              "RelativeToolTip": "web-app.Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:10:12.852Z",
+              "WhenOpened": "2024-06-19T11:13:44.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "web-app\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "web-app\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T11:08:47.798Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "web-app\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "web-app\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:01:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "web-app\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "web-app\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T10:59:27.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "web-app\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "web-app\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:55:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "web-app\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "web-app\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:14:06.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Program.cs",
+              "RelativeDocumentMoniker": "web-app\\Program.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Program.cs",
+              "RelativeToolTip": "web-app\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:22:23.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "web-app\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "web-app\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-19T10:53:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\UnitOfWork.cs",
               "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeToolTip": "web-app.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:03:02.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T11:03:02.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "web-app.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:10:12.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeToolTip": "web-app.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:30:54.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T10:30:54.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "web-app.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:16:36.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
@@ -89,45 +223,19 @@
               "RelativeToolTip": "web-app.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:59:51.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T10:59:51.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "web-app\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "web-app\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAQwFwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:14:06.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeToolTip": "web-app.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T10:31:27.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\asp.net\\csharp\\web-app\\web-app\\Program.cs",
-              "RelativeDocumentMoniker": "web-app\\Program.cs",
-              "ToolTip": "E:\\asp.net\\csharp\\web-app\\web-app\\Program.cs",
-              "RelativeToolTip": "web-app\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:22:23.106Z"
             }
           ]
         }

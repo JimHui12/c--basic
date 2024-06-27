@@ -11,5 +11,6 @@ namespace web_app.DataAccess.Repository.IRepository
     {
  
         void Update(Category obj);
+ 
     }
 }

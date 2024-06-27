@@ -17,7 +17,7 @@ namespace web_app.DataAccess.Repository
         {  
             _db = db; 
         }
- 
+        
 
         public void Update(Category obj)
         {
